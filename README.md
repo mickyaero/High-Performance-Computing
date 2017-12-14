@@ -1,5 +1,5 @@
 # High-Performance-Computing
-Using GPU, OpenMP and MPI to parallelize codes
+Using Cuda, OpenMP and MPI to parallelize codes
 
 
 The hw3.cu file parallelizes the matrix matrix multiplication using NVIDIA CUDA
